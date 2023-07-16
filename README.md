@@ -40,9 +40,9 @@ if your git is not configured follow this:
 <details>
     <summary><b>Github configuration</b></summary>
 
-intsll these libraries:
+install these libraries:
 `sudo apt install libsecret-1-0 libsecret-1-dev`
-> :memo: **Note:** Package names may be different in different distributions. These are for debian based distros.
+> :memo: **Note:** Package names may be different in other distributions. These are for debian based distros.
 
 then add this congigs to git:
 ```
