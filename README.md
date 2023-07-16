@@ -62,7 +62,7 @@ git remote set-url origin git@github.com:<username>/<repo name>.git
 ssh -T git@github.com
 ```
 </details>
-
+<hr>
 after that give execution permission to `main.sh` file:
 `chmod +x main.sh`
 
